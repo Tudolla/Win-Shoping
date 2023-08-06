@@ -10,3 +10,22 @@ const login = "Login";
 const signup = "Sign up";
 const createNewAccount = "or, create a new account";
 const loginWith = 'Or, Login with';
+const retypePassword = " Retype Password";
+const name = "Name";
+const nameHint = "Donald Trump";
+const privacy = "Privacy Policy";
+const term = "Terms and Conditions";
+const alreadyHaveAccount = "Already have an account!";
+
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account";
+
+const searchAnythin = "Search anything ....",
+    todayDeal = "Today's Deal",
+    flashsale = "Flash Sale",
+    topSeller = "Top Seller",
+    brand = "Brand",
+    topCategory = "Top Categories",
+    featureCategories = "Feature Categories";
