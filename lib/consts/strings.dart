@@ -27,5 +27,23 @@ const searchAnythin = "Search anything ....",
     flashsale = "Flash Sale",
     topSeller = "Top Seller",
     brand = "Brand",
+    womenDress = "Woman Dress",
+    girlsWatches = "Girl Watches",
+    mobilePhone = "Mobile Phone",
+    boysGlasses = "Boy Glasses",
+    tShirts = "TShirts",
+    girlDress = "Girl Dresses",
     topCategory = "Top Categories",
+    featureProduct = "Featured Product",
     featureCategories = "Feature Categories";
+
+/// category
+const womenClothing = "Women Clothing",
+    menClothinFashion = "Men Clothing % Fashion",
+    compAccess = "Computer & Accessories",
+    automobile = "Automobile",
+    kidtoys = "Kids & Toys",
+    sports = "Sports",
+    jewlery = "Jewelery",
+    cellphone = "CellphoneS& Tab",
+    furniture = "Furniture";
